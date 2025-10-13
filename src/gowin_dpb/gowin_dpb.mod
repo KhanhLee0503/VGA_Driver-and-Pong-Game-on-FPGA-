@@ -1,0 +1,26 @@
+-series GW1NR
+-device GW1NR-9
+-device_version C
+-package QFN88P
+-part_number GW1NR-LV9QN88PC6/I5
+
+
+-mod_name Gowin_DPB
+-file_name gowin_dpb
+-path C:/SystemVerilog/VGA_driver/VGA_driver/src/gowin_dpb/
+-type RAM_DP
+-file_type vlg
+-bram_b true
+-dev_type GW1NR-9C
+-depth_0 60000
+-depth_1 60000
+-width_0 6
+-width_1 6
+-read_mode_0 bypass
+-read_mode_1 bypass
+-write_mode_0 normal
+-write_mode_1 normal
+-speed true
+-reset_mode sync
+-init_file C:\Users\KHANH\Downloads\sekiro_6bit_fixed.mif
+-init_match port_A

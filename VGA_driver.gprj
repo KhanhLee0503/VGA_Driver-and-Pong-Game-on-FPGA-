@@ -1,0 +1,20 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1NR-9C" pn="GW1NR-LV9QN88PC6/I5">gw1nr9c-004</Device>
+    <FileList>
+        <File path="src/ball.sv" type="file.verilog" enable="1"/>
+        <File path="src/clock_generator.sv" type="file.verilog" enable="1"/>
+        <File path="src/graphics_render.sv" type="file.verilog" enable="1"/>
+        <File path="src/padder.sv" type="file.verilog" enable="1"/>
+        <File path="src/vga_memory.sv" type="file.verilog" enable="1"/>
+        <File path="src/VGA_driver.cst" type="file.cst" enable="1"/>
+        <File path="src/sekiro_6bit.hex" type="file.other" enable="1"/>
+        <File path="src/sekiro_6bit_300x200.hex" type="file.other" enable="1"/>
+        <File path="src/sekiro_6bit_350x300.hex" type="file.other" enable="1"/>
+        <File path="src/sekiro_6bit_400x300.hex" type="file.other" enable="1"/>
+        <File path="src/sekiro_6bit_430x400.hex" type="file.other" enable="1"/>
+    </FileList>
+</Project>

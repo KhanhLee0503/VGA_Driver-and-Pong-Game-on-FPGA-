@@ -1,0 +1,33 @@
+{
+ "Device" : "GW1NR-9C",
+ "Files" : [
+  {
+   "Path" : "C:/SystemVerilog/VGA_driver/VGA_driver/src/ball.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/SystemVerilog/VGA_driver/VGA_driver/src/clock_generator.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/SystemVerilog/VGA_driver/VGA_driver/src/graphics_render.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/SystemVerilog/VGA_driver/VGA_driver/src/padder.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/SystemVerilog/VGA_driver/VGA_driver/src/vga_memory.sv",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/SystemVerilog/VGA_driver/VGA_driver/impl/temp/rtl_parser.result",
+ "Top" : "graphics_render",
+ "VerilogStd" : "sysv",
+ "VhdlStd" : "vhdl_93"
+}

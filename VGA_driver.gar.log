@@ -1,0 +1,23 @@
+********* Archive Project on 2025-09-24 23:36:44 *********
+Tool Version: V1.9.10.03 Education (64-bit)
+Archive file: C:\SystemVerilog\VGA_driver\VGA_driver\VGA_driver.gar
+Archive files successfully
+
+
+********* Archived files *********
+C:\SystemVerilog\VGA_driver\VGA_driver\VGA_driver.gprj
+C:\SystemVerilog\VGA_driver\VGA_driver\impl\VGA_driver_process_config.json
+C:\SystemVerilog\VGA_driver\VGA_driver\src\Memory.sv
+C:\SystemVerilog\VGA_driver\VGA_driver\src\VGA_driver.cst
+C:\SystemVerilog\VGA_driver\VGA_driver\src\clock_generator.sv
+C:\SystemVerilog\VGA_driver\VGA_driver\src\clock_generator_tb.sv
+C:\SystemVerilog\VGA_driver\VGA_driver\src\gowin_dpb\gowin_dpb.ipc
+C:\SystemVerilog\VGA_driver\VGA_driver\src\gowin_dpb\gowin_dpb.mod
+C:\SystemVerilog\VGA_driver\VGA_driver\src\gowin_sp\gowin_sp.ipc
+C:\SystemVerilog\VGA_driver\VGA_driver\src\gowin_sp\gowin_sp.mod
+C:\SystemVerilog\VGA_driver\VGA_driver\src\sekiro.hex
+C:\SystemVerilog\VGA_driver\VGA_driver\src\sekiro_resize.hex
+C:\SystemVerilog\VGA_driver\VGA_driver\src\triangle.hex
+
+********* Total 13 files to archive *********
+

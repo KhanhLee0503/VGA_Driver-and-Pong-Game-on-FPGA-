@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="graphics_render" Register="23" Alu="50" Lut="113" T_Register="71(23)" T_Alu="85(50)" T_Lut="151(113)">
+ <SubModule name="clkgen" Register="23" Alu="18" Lut="18" T_Register="23(23)" T_Alu="18(18)" T_Lut="18(18)"/>
+ <SubModule name="padder" Register="8" Lut="20" T_Register="8(8)" T_Lut="20(20)"/>
+ <SubModule name="ball" Register="17" Alu="17" T_Register="17(17)" T_Alu="17(17)"/>
+</Module>
