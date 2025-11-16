@@ -36,11 +36,32 @@
 
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/216b34af-6bf5-4231-a43e-6da75d4cf17f" />
 
-In this project, I used 64-color table which mapped to 2
+- In this project, I employed a 64-color lookup table (CLUT), which utilizes a 6-bit color depth (2 bits per color channel: Red, Green, and Blue).
 
+<img width="665" height="377" alt="image" src="https://github.com/user-attachments/assets/8daafffe-10a2-4332-b070-57ef1ff87cc2" />
+
+### Coloring Table
+
+| RAM1 and RAM2 Input | RGB Voltage (V) | Resistance (Ohm) |
+|:--------------------|:----------------|:-----------------|
+|         00          |        0        |         0        |
+|         01          |        0.23     |       1.55k      |
+|         10          |        0.47     |       722.9      |
+|         11          |        0.7      |       460.7      |
 
 ![Image](https://github.com/user-attachments/assets/3155589e-9384-4821-bd6a-ffd600e15430)
 
+## DISPLAYING
+- At first, we'll try to display this image to check whether the VGA displaying module is working or not
+
+<img width="1280" height="1080" alt="image" src="https://github.com/user-attachments/assets/c21047e4-6b2c-4995-9488-e16739006185" />
+
+### DISPLAYING IMAGE
+https://github.com/user-attachments/assets/2dac2017-d662-4112-8aea-bb7184494ea9
+
+
+
+### PONG GAME !!!
 https://github.com/user-attachments/assets/e4cf6e9e-e3d1-45ba-9d36-35078ce55938
 
 
