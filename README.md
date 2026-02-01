@@ -38,7 +38,7 @@
 
 - In this project, I employed a 64-color lookup table (CLUT), which utilizes a 6-bit color depth (2 bits per color channel: Red, Green, and Blue).
 
-<img width="665" height="377" alt="image" src="https://github.com/user-attachments/assets/8daafffe-10a2-4332-b070-57ef1ff87cc2" />
+<img width="1000" height="377" alt="image" src="https://github.com/user-attachments/assets/8daafffe-10a2-4332-b070-57ef1ff87cc2" />
 
 ### Coloring Table
 
